@@ -1,4 +1,4 @@
-### Hi, my name is Ruslan and I'm a beginner programmer. 
+### Hi, my name is Ruslan and I'm a programmer. 
 
 ### About me
-- fourth year student 
+- five year student 
